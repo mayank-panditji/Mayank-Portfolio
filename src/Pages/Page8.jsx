@@ -20,8 +20,8 @@ const Page8 = () => {
 
         <div className="flex items-center justify-center h-5">
           <img
-            className="pl-20 object-cover rounded-[50%] mt-[190px] mr-[60px]"
-            src="mtttt.png"
+            className="pl-20 object-cover h-[400px] rounded-[60%]  mt-[120px] mr-[60px]"
+            src="/maya.jpg"
             alt="Your Branded Picture"
           />
         </div>

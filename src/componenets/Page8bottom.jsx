@@ -22,7 +22,15 @@ const Page8bottom = () => {
         >
           MAYANK
         </h1>
-        <h1 className="text-2xl font-[anzo2] pl-[100px]  ">[DMITRY]</h1>
+        <h1 className="text-2xl font-[anzo2] pl-[100px]  " 
+          style={{
+            backgroundImage: "url(./sky8.webp)",
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+            WebkitBackgroundClip: "text",
+            backgroundClip: "text",
+            color: "transparent",
+          }}>[FRONTEND DEVLOPER]</h1>
       </div>
     </div>
   );
