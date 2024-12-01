@@ -24,7 +24,7 @@ const Page1 = () => {
     <div onMouseMove={mouseMoving} className='h-screen p-3 relative'>
       <div
         id='page1-in'
-        className='relative h-full w-full p-12 rounded-[50px] bg-[url(./m.jpg)] bg-cover shadow-xl shadow-gray-700 bg-white'
+        className='relative h-full w-full p-12 rounded-[50px] bg-[url(/m.jpg)] bg-cover shadow-xl shadow-gray-700 bg-white'
       >
         <img
           className='py-4'
